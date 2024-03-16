@@ -8,6 +8,7 @@ namespace Jurnal_Modul_04_1302223110
 {
     internal class Program
     {
+
         static void Main(string[] args)
         {
         }
