@@ -1,0 +1,7 @@
+C:\Users\PRAKTIKAN\Documents\Jurnal Modul 04_1302223110_\Jurnal Modul 04_1302223110\Jurnal Modul 04_1302223110\bin\Debug\Jurnal Modul 04_1302223110.exe.config
+C:\Users\PRAKTIKAN\Documents\Jurnal Modul 04_1302223110_\Jurnal Modul 04_1302223110\Jurnal Modul 04_1302223110\bin\Debug\Jurnal Modul 04_1302223110.exe
+C:\Users\PRAKTIKAN\Documents\Jurnal Modul 04_1302223110_\Jurnal Modul 04_1302223110\Jurnal Modul 04_1302223110\bin\Debug\Jurnal Modul 04_1302223110.pdb
+C:\Users\PRAKTIKAN\Documents\Jurnal Modul 04_1302223110_\Jurnal Modul 04_1302223110\Jurnal Modul 04_1302223110\obj\Debug\Jurnal Modul 04_1302223110.csproj.AssemblyReference.cache
+C:\Users\PRAKTIKAN\Documents\Jurnal Modul 04_1302223110_\Jurnal Modul 04_1302223110\Jurnal Modul 04_1302223110\obj\Debug\Jurnal Modul 04_1302223110.csproj.CoreCompileInputs.cache
+C:\Users\PRAKTIKAN\Documents\Jurnal Modul 04_1302223110_\Jurnal Modul 04_1302223110\Jurnal Modul 04_1302223110\obj\Debug\Jurnal Modul 04_1302223110.exe
+C:\Users\PRAKTIKAN\Documents\Jurnal Modul 04_1302223110_\Jurnal Modul 04_1302223110\Jurnal Modul 04_1302223110\obj\Debug\Jurnal Modul 04_1302223110.pdb

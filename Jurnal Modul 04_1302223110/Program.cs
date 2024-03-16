@@ -11,6 +11,15 @@ namespace Jurnal_Modul_04_1302223110
 
         static void Main(string[] args)
         {
+            Kodebuah kodebuah = new Kodebuah();
+
+            Console.WriteLine(kodebuah.getKodeBuah(Kodebuah.daftarBuah.Ceri));
+            Console.WriteLine(kodebuah.getKodeBuah(Kodebuah.daftarBuah.Apel));
+            Console.WriteLine(kodebuah.getKodeBuah(Kodebuah.daftarBuah.Melon));
+            Console.WriteLine(" ");
+
+            PosisiKarakterGame game = new PosisiKarakterGame();
+            game.Game();
         }
     }
 }
